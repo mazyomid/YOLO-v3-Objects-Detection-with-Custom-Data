@@ -19,5 +19,3 @@ Build your own Detector based on YOLO v3
 ### MIT License
 ### Copyright (c) 2020 Valentyn N Sichkar
 ### github.com/sichkar-valentyn
-### Reference to:
-Valentyn N Sichkar. Traffic Signs Classification with CNN // GitHub platform. DOI: 10.5281/zenodo.3605407
