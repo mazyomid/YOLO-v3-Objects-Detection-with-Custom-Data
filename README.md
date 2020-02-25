@@ -7,7 +7,7 @@ Build your own Detector based on YOLO v3
 
 
 ### Detections on images (example)
-![Detections on Images](https://valentynsichkar.name/static/images/slides_detections.gif "YOLO v3 Objects Detections on Images")
+![Detections on Images](https://github.com/sichkar-valentyn/YOLO-v3-Objects-Detection-with-Custom-Data/blob/master/images/slides_detections_2.gif "YOLO v3 Objects Detections on Images")
 
 
 ### Content of the Course
