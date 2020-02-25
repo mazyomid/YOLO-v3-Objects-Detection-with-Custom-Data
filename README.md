@@ -21,11 +21,11 @@ Build your own Detector based on YOLO v3
 
 ### You will be able to
 <kbd>→</kbd> Apply trained YOLO v3
-<kbd>→</kbd> Label dataset in YOLO format
-<kbd>→</kbd> Create custom dataset in YOLO format
-<kbd>→</kbd> Convert existing dataset of Traffic Signs in YOLO format
-<kbd>→</kbd> Train YOLO v3
-<kbd>→</kbd> Build PyQt GUI
+<br/><kbd>→</kbd> Label dataset in YOLO format
+<br/><kbd>→</kbd> Create custom dataset in YOLO format
+<br/><kbd>→</kbd> Convert existing dataset of Traffic Signs in YOLO format
+<br/><kbd>→</kbd> Train YOLO v3
+<br/><kbd>→</kbd> Build PyQt GUI
 
 <br/>
 
