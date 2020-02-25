@@ -11,13 +11,13 @@ Build your own Detector based on YOLO v3
 
 
 ### Content of the Course
-- [x] Section 1 - Quick Win. Simple Object Detection by thresholding with colour mask
-- [x] Section 2 - Apply trained YOLO v3 and OpenCV to the Objects Detection on image, video and in real time with camera
-- [x] Section 2 - Label own dataset and structure files in YOLO format
-- [x] Section 2 - Create custom dataset from huge existing one and structure files in YOLO format	
-- [x] Section 2 - Convert existing dataset and structure files in YOLO format		
-- [x] Section 2 - Train YOLO v3 with prepared datasets in Darknet framework
-- [x] Section 2 - Build own PyQt user's interface (GUI) for Objects Detection based on YOLO v3 algorithm
+- [x] **Section 1:** Quick Win. Simple Object Detection by thresholding with colour mask
+- [x] **Section 2:** Apply trained YOLO v3 and OpenCV to the Objects Detection on image, video and in real time with camera
+- [x] **Section 3:** Label own dataset and structure files in YOLO format
+- [x] **Section 4:** Create custom dataset from huge existing one and structure files in YOLO format	
+- [x] **Section 5:** Convert existing dataset and structure files in YOLO format		
+- [x] **Section 6:** Train YOLO v3 with prepared datasets in Darknet framework
+- [x] **Section 7:** Build own PyQt user's interface (GUI) for Objects Detection based on YOLO v3 algorithm
 
 ### You will be able to
 <kbd>→</kbd> Apply trained YOLO v3
