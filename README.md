@@ -27,6 +27,9 @@ Build your own Detector based on YOLO v3
 <br/><kbd>→</kbd> Train YOLO v3
 <br/><kbd>→</kbd> Build PyQt GUI
 
+### Concept Map of the Course
+![Concept Map of the Course](https://github.com/sichkar-valentyn/YOLO-v3-Objects-Detection-with-Custom-Data/blob/master/images/Concept_map_YOLO_3.png "Concept Map of the Course")
+
 <br/>
 
 ### MIT License
